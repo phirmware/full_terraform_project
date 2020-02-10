@@ -1,0 +1,1 @@
+yes apply -var-file= starter.tfvars
